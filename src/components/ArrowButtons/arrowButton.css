@@ -1,0 +1,14 @@
+.slide_arrow_buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.slide_arrow_buttons button{
+    padding: 5px 5px;
+    box-shadow: 0 20px 40px #5a5a5a;
+}
+
+.slide_arrow_buttons .arrowIcons{
+    font-size: 20px;
+}
