@@ -1,0 +1,29 @@
+{
+  "name": "elegant-smooth-slider",
+  "version": "0.0.0",
+  "description": "Image Slide Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravindudeshitha/elegant-smooth-slider.git"
+  },
+  "author": "Ravindu Deshitha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ravindudeshitha/elegant-smooth-slider/issues"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rollup": "^4.20.0",
+    "rollup-plugin-dts": "^6.1.1",
+    "typescript": "^5.5.4"
+  }
+}
