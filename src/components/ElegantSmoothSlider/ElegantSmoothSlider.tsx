@@ -36,13 +36,7 @@ type SlideItem = {
     link?: string;
     buttonName?: string;
     titleColor?: string;
-    titleColorHover?: string;
     descriptionColor?: string;
-    descriptionColorHover?: string;
-    buttonColor?: string;
-    buttonColorHover?: string;
-    buttonNameColor?: string;
-    buttonNameColorHover?: string;
 }
 
 class ElegantSmoothSlider extends Component<SlideProps> {

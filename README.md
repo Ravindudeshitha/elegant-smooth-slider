@@ -126,15 +126,9 @@ export default App;
 |title	|string	|N/A	|Title of the slide (optional)|
 |description	|string	|N/A	|Description of the slide (optional)|
 |link	|string	|N/A	|URL link for the slide (optional)|
-|buttonName	|string	|N/A	|Name of the button (optional)|
-|titleColor	|string	|N/A	|Color of the title (optional)|
-|titleColorHover	|string	|N/A	|Hover color of the title (optional)|
-|descriptionColor	|string	|N/A	|Color of the description (optional)|
-|descriptionColorHover	|string	|N/A	|Hover color of the description (optional)|
-|buttonColor	|string	|N/A	|Color of the button (optional)|
-|buttonColorHover	|string	|N/A	|Hover color of the button (optional)|
-|buttonNameColor	|string	|N/A	|Color of the button name (optional)|
-|buttonNameColorHover	|string	|N/A	|Hover color of the button name (optional)|
+|buttonName	|string	|See More	|Name of the button (optional)|
+|titleColor	|string	|#e6e6e6	|Color of the title (optional)|
+|descriptionColor	|string	|#e6e6e6	|Color of the description (optional)|
 
 
 ### Example Of Array Of Data
@@ -146,14 +140,8 @@ export default App;
             title: "Elegant Smooth Slider ", description: "Elegant Smooth Slider is a customizable image slider component", 
             link: "https://elegant-smooth-slider/",
             buttonName: "See More",
-            titleColor:
-            titleColorHover:
-            descriptionColor:
-            descriptionColorHover:
-            buttonColor:
-            buttonColorHover:
-            buttonNameColor:
-            buttonNameColorHover:
+            titleColor: "#e6e6e6"
+            descriptionColor: "#e6e6e6"
         },
         
     ];
