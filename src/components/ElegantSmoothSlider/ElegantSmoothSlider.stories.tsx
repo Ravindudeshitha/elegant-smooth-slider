@@ -24,13 +24,13 @@ type Story = StoryObj<typeof meta>;
 export const Primary: Story = {
     args: { 
         slides: data,
-        automatedSlides: false,
+        automatedSlides: true,
         slideButtonBackground: "#e6e6e6",
         slideButtonIconColor: "#000000",
         slideButtonBackgroundHover: "#cccccc",
         slideButtonIconColorHover: "#333333",
         buttontype: 'primary',
-        imageTint: false,
+        imageTint: true,
         slidArrowButton: true,
         slideContent: true,
         contentTitle: true,
