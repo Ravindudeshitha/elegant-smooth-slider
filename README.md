@@ -165,67 +165,67 @@ export default App;
 ```jsx
   Default View
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/a9d89101-9c57-43a8-a689-9422debddd86" alt="screenshot" style="height=300 " />
 
 ```jsx
   imageTint: true,
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/cc844114-f5d0-4260-bc36-fd47d822e19c" alt="screenshot" style="height=300 " />
 
 ```jsx
   slidArrowButton: false,
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/d79046e8-5b37-44b2-9a9b-cdd7fc4efffb" alt="screenshot" style="height=300 " />
 
 ```jsx
   slideContent: false,
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/b428f978-a4e7-4efb-8c01-a18cb9a3079e" alt="screenshot" style="height=300 " />
 
 ```jsx
   contentTitle: false,
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/dbe6e41a-fe4a-409b-b1a1-23a31dcec3bf" alt="screenshot" style="height=300 " />
 
 ```jsx
   contentDescription: false,
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/840617a8-e941-4c1b-ae8d-c6b2ff693dc5" alt="screenshot" style="height=300 " />
 
 ```jsx
   contentLink: false,
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/b8e3eaf9-8572-4b2c-832e-3a4b004b8e13" alt="screenshot" style="height=300 " />
 
 ```jsx
   subImages: false,
 ```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/637840ea-4f83-456e-a36e-27d6605b3a91" alt="screenshot" style="height=300 " />
 
 
 ```jsx
   subImagePosition: 'bottom',
 ```
 <div style="display: flex; justify-content: space-around; ">
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
-  <img src="https://github.com/user-attachments/assets/f2ffe01a-670e-47e6-8ee1-17c3055881a8" alt="screenshot" style="height=300 " />
-  <img src="https://github.com/user-attachments/assets/b25dcdf3-0130-4881-9a82-49a9bd5e592a" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/a9d89101-9c57-43a8-a689-9422debddd86" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/6edc82fb-44ed-4095-842f-dbba259746c2" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/4d59c7c3-76c0-4740-871c-dbf5491be993" alt="screenshot" style="height=300 " />
 </div>
 
 ```jsx
   subImagePosition: 'center',
 ```
 <div style="display: flex; justify-content: space-around; ">
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
-  <img src="https://github.com/user-attachments/assets/f2ffe01a-670e-47e6-8ee1-17c3055881a8" alt="screenshot" style="height=300 " />
-  <img src="https://github.com/user-attachments/assets/b25dcdf3-0130-4881-9a82-49a9bd5e592a" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/8b22684d-a6ca-4668-958c-0f89abb40cf7" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/52bb0fa1-0859-45c5-afc8-e86186cad100" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/a23ed002-8dad-4a8a-bf79-e5a5e76691b5" alt="screenshot" style="height=300 " />
 </div>
 
 ```jsx
   subImagePosition: 'top',
 ```
 <div style="display: flex; justify-content: space-around; ">
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
-  <img src="https://github.com/user-attachments/assets/f2ffe01a-670e-47e6-8ee1-17c3055881a8" alt="screenshot" style="height=300 " />
-  <img src="https://github.com/user-attachments/assets/b25dcdf3-0130-4881-9a82-49a9bd5e592a" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/b88e439a-a955-4d4e-ad2c-864ffa78f22d" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/d7ff8950-f0ed-4ebf-98f6-3206a43bdce5" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/e03c39f9-f988-4da5-9c94-8b1149412820" alt="screenshot" style="height=300 " />
 </div>
