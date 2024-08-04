@@ -151,10 +151,17 @@ export default App;
 
 ```
 <div style="display: flex; justify-content: space-around; ">
-    
+
+  <div>
+    <h3>Desktop View</h3>
     <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  </div>
+  <div>
+    <h3>Tab View</h3>
     <img src="https://github.com/user-attachments/assets/f2ffe01a-670e-47e6-8ee1-17c3055881a8" alt="screenshot" style="height=300 " />
+  </div>
+  <div>
+    <h3>Mobile View</h3>
     <img src="https://github.com/user-attachments/assets/b25dcdf3-0130-4881-9a82-49a9bd5e592a" alt="screenshot" style="height=300 " />
-    
-    
+  </div>
 </div>
