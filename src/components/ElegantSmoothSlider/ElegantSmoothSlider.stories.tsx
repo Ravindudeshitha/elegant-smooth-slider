@@ -30,7 +30,7 @@ export const Primary: Story = {
         slideButtonBackgroundHover: "#cccccc",
         slideButtonIconColorHover: "#333333",
         buttontype: 'primary',
-        imageTint: true,
+        imageTint: false,
         slidArrowButton: true,
         slideContent: true,
         contentTitle: true,
@@ -43,6 +43,6 @@ export const Primary: Story = {
         linkButtonTextColor: "#000000",
         linkButtonTextColorHover: "#333333",
         subImages: true,
-        subImagePosition: 'bottom',
+        subImagePosition: 'top',
     },
 };
