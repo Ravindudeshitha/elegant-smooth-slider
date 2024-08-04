@@ -15,6 +15,12 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
+  "keywords": [
+    "elegant-smooth-slider",
+    "image slider",
+    "react slide",
+    "image slider"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ravindudeshitha/elegant-smooth-slider.git"
