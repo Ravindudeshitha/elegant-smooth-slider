@@ -160,3 +160,75 @@ export default App;
 
 ```
 
+```jsx
+  Default View
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  Default View
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  imageTint: true,
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  slidArrowButton: false,
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  slideContent: false,
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  contentTitle: false,
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  contentDescription: false,
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  contentLink: false,
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+```jsx
+  subImages: false,
+```
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+
+
+```jsx
+  subImagePosition: 'bottom',
+```
+<div style="display: flex; justify-content: space-around; ">
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/f2ffe01a-670e-47e6-8ee1-17c3055881a8" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/b25dcdf3-0130-4881-9a82-49a9bd5e592a" alt="screenshot" style="height=300 " />
+</div>
+
+```jsx
+  subImagePosition: 'center',
+```
+<div style="display: flex; justify-content: space-around; ">
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/f2ffe01a-670e-47e6-8ee1-17c3055881a8" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/b25dcdf3-0130-4881-9a82-49a9bd5e592a" alt="screenshot" style="height=300 " />
+</div>
+
+```jsx
+  subImagePosition: 'top',
+```
+<div style="display: flex; justify-content: space-around; ">
+  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/f2ffe01a-670e-47e6-8ee1-17c3055881a8" alt="screenshot" style="height=300 " />
+  <img src="https://github.com/user-attachments/assets/b25dcdf3-0130-4881-9a82-49a9bd5e592a" alt="screenshot" style="height=300 " />
+</div>

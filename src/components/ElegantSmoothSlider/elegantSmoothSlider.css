@@ -171,7 +171,6 @@
     outline: none;
     margin-top: 20px;
     font-weight: bold;
-    cursor: pointer;
     opacity: 0;
     animation: animate 1s ease-in-out 0.4s 1 forwards;
 }
@@ -180,6 +179,7 @@
     border-radius: 10px;
     text-decoration: none;
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .slide_arrow_button{
