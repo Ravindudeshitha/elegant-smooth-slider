@@ -160,11 +160,8 @@ export default App;
 
 ```
 
-```jsx
-  Default View
-```
-  <img src="https://github.com/user-attachments/assets/08f9dff6-1c08-4d36-88a7-5818e24ada71" alt="screenshot" style="height=300 " />
 
+## Elegant-smooth-slider Props Views
 ```jsx
   Default View
 ```
