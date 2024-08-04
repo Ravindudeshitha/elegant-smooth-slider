@@ -161,7 +161,7 @@ export default App;
 ```
 
 
-## Elegant-smooth-slider Props Views
+<!-- ## Elegant-smooth-slider Props Views
 ```jsx
   Default View
 ```
@@ -228,4 +228,4 @@ export default App;
   <img src="https://github.com/user-attachments/assets/b88e439a-a955-4d4e-ad2c-864ffa78f22d" alt="screenshot" style="height=300 " />
   <img src="https://github.com/user-attachments/assets/d7ff8950-f0ed-4ebf-98f6-3206a43bdce5" alt="screenshot" style="height=300 " />
   <img src="https://github.com/user-attachments/assets/e03c39f9-f988-4da5-9c94-8b1149412820" alt="screenshot" style="height=300 " />
-</div>
+</div> -->
