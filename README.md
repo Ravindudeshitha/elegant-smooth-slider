@@ -151,6 +151,6 @@ export default App;
 
 ```
 <div style="display: flex; justify-content: space-around;">
-  <img src="![11](https://github.com/user-attachments/assets/92ee9180-10ac-4138-aaa2-bfc5af4c2bfb)" alt="screenshot" width="300" height="200" />
+  <img src="https://github.com/user-attachments/assets/92ee9180-10ac-4138-aaa2-bfc5af4c2bfb" alt="screenshot" width="300" height="200" />
   <img src="https://h5p.org/sites/default/files/h5p/content/1209180/images/file-6113d5f8845dc.jpeg" alt="screenshot" width="300" height="200" />
 </div>
