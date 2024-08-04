@@ -24,7 +24,7 @@ Elegant Smooth Slider is a customizable image slider component for React applica
 - [Installation](#installation)
 - [Usage](#usage)
 - [Props](#props)
-- [Slides_Array](#alide item types)
+- [SlidesArray](#alide item types)
 - [License](#license)
 ## Installation
 
