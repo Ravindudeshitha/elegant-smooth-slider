@@ -1,6 +1,6 @@
 {
   "name": "elegant-smooth-slider",
-  "version": "0.0.4",
+  "version": "1.0.1",
   "description": "Image Slide Library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
